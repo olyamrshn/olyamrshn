@@ -4,7 +4,7 @@ The code is available in [open source](https://github.com/learn-anything/learn-a
 Also contribute to the development of [Kuskus](https://github.com/kuskusapp/kuskus), a food-sharing app.
  Enjoy reflecting on my journey and capturing thoughts in [my diary](https://github.com/marshennikovaolga/dear-diary).
  
-## Currently studying
+## currently studying
 `TypeScript`
 `GraphQL`
 
