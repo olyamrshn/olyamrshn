@@ -6,6 +6,6 @@ Also contribute to the development of [Kuskus](https://github.com/kuskusapp/kusk
  
 ## currently studying
 `React Native`
-`EXpo`
+`Expo`
 
 Feel free to check out my stuff or hit me up if you want to talk/work together
