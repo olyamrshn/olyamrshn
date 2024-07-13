@@ -5,7 +5,7 @@ Also contribute to the development for digital marketplace on solana [Solbond](h
 Enjoy reflecting on my journey and capturing thoughts in [my diary](https://github.com/marshennikovaolga/dear-diary).
  
 ## currently studying
+`Three.js`
 `React Native`
-`Expo`
 
 Feel free to check out my stuff or hit me up if you want to talk/work together
