@@ -1,6 +1,6 @@
 ## Hey there 🪷
 Love building things with **react** and **react native**.
-My current focus is working on making [gen new] website for creating AI-generated code/content (https://github.com/genxai/gen) and developing Telegram Mini Apps. 
+My current focus is working on making [gen new](https://github.com/genxai/gen) website for creating AI-generated code/content and developing Telegram Mini Apps. 
 ## currently studying
 `Three.js`
 
