@@ -1,5 +1,6 @@
 ## Hey there 🪷
-Love building things with **react** and **react native**. My current focus is working on making [Learn Anything](https://github.com/learn-anything) mobile & desktop adaptation and developing Telegram Mini Apps. 
+Love building things with **react** and **react native**.
+My current focus is working on making [gen new] website for creating AI-generated code/content (https://github.com/genxai/gen) and developing Telegram Mini Apps. 
 ## currently studying
 `Three.js`
 
