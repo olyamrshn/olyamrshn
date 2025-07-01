@@ -1,6 +1,6 @@
 ## Hey there 🪷
 Love building things with **react** and **react native**.
-My current focus is working on making [1Focus](https://github.com/genxai/gen](https://github.com/1focus-ai) AI coding assistant tool and developing Telegram Mini Apps. 
+My current focus is working on making [1Focus](https://github.com/1focus-ai) AI coding assistant tool and developing Telegram Mini Apps. 
 ## currently studying
 `Three.js`
 
